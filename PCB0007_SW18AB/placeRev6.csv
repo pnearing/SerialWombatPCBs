@@ -1,0 +1,18 @@
+Designator,Mid X,Mid Y,Layer,Rotation
+C1S,14.48,44.96,Bottom,270
+C2S,13.21,15.88,Bottom,90
+C3S,14.48,23.37,Bottom,270
+C3V3,9.19,-2.54,Bottom,0
+C5V,17.55,-1.12,Bottom,90
+U1,13.97,29.37,Top,270
+U2,14.05,-2.54,Bottom,180
+ESP01,13.97,3.81,Top,0
+FTDICABLE,13.97,-10.16,Top,0
+JP3,2.54,48.26,Top,90
+J4,25.4,24.13,Top,90
+J5,2.54,24.13,Top,90
+R1S,14.45,49.73,Bottom,0
+R3S,21.59,21.59,Bottom,270
+R4S,6.35,21.59,Bottom,270
+J2,3.94,-0.1,Top,270
+J3,24.1,-0.03,Top,90
