@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCB0007.01_SW18AB_NRF2401-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/PCB0007.01_SW18AB_NRF2401-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "SerialWombat_Symbols")(type "KiCad")(uri "${KIPRJMOD}/SerialWombat_Symbols.kicad_sym")(options "")(descr ""))
+)

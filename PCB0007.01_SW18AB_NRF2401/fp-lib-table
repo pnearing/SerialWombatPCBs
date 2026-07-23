@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PCB0007.01_SW18AB_NRF2401")(type "KiCad")(uri "$(KIPRJMOD)/PCB0007.01_SW18AB_NRF2401.pretty")(options "")(descr ""))
+)
