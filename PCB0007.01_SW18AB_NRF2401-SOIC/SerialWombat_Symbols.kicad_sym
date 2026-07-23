@@ -1,0 +1,1391 @@
+(kicad_symbol_lib
+	(version 20241209)
+	(generator "kicad_symbol_editor")
+	(generator_version "9.0")
+	(symbol "SerialWombat-18AB(PIC24FJ256GA702-I/SO) SOIC 28 Pin 7.50mm width"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "kicad-embed://PIC24FJ256GA705-Family-Data-Sheet-DS30010118E.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "SOIC 28 Serial Wombat 18AB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SerialWombat-18AB(PIC24FJ256GA702-I/SO) SOIC 28 Pin 7.50mm width_0_1"
+			(rectangle
+				(start -8.89 29.21)
+				(end 22.86 -29.21)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "SerialWombat-18AB(PIC24FJ256GA702-I/SO) SOIC 28 Pin 7.50mm width_1_1"
+			(pin input inverted
+				(at -11.43 24.13 0)
+				(length 2.54)
+				(name "MCLR_(Reset)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -11.43 20.32 0)
+				(length 2.54)
+				(name "S.W.P00"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN0" input line)
+				(alternate "C3INC" input line)
+				(alternate "CTED1" input line)
+				(alternate "CVREF+" input line)
+				(alternate "RA0" input line)
+				(alternate "RP26" input inverted)
+				(alternate "VREF+" input line)
+			)
+			(pin input line
+				(at -11.43 16.51 0)
+				(length 2.54)
+				(name "Addr"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN1" input line)
+				(alternate "C3IND" input line)
+				(alternate "CTED2" bidirectional line)
+				(alternate "CVREF-" input line)
+				(alternate "RA1" bidirectional line)
+				(alternate "RP27" bidirectional line)
+				(alternate "VREF-" input line)
+			)
+			(pin bidirectional line
+				(at -11.43 12.7 0)
+				(length 2.54)
+				(name "S.W.P01"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN2" input line)
+				(alternate "C2INB" input line)
+				(alternate "CTCMP" input line)
+				(alternate "PGD1" output line)
+				(alternate "RB0" bidirectional line)
+				(alternate "RP0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -11.43 8.89 0)
+				(length 2.54)
+				(name "S.W.P02"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN1-" input line)
+				(alternate "AN3" input line)
+				(alternate "C2INA" input line)
+				(alternate "CTED12" input line)
+				(alternate "PGC1" input clock)
+				(alternate "RB1" bidirectional line)
+				(alternate "RP1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -11.43 5.08 0)
+				(length 2.54)
+				(name "S.W.P03(SDA)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN4" input line)
+				(alternate "C1INB" input line)
+				(alternate "CTED13" input line)
+				(alternate "RB2" bidirectional line)
+				(alternate "RP2" bidirectional line)
+				(alternate "S.W.P3" bidirectional line)
+				(alternate "SDA2" bidirectional line)
+			)
+			(pin input clock
+				(at -11.43 1.27 0)
+				(length 2.54)
+				(name "S.W.P04(SCL)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN5" input line)
+				(alternate "C1INA" input line)
+				(alternate "CTED8" input line)
+				(alternate "RB3" bidirectional line)
+				(alternate "RP3" bidirectional line)
+				(alternate "SCL2" bidirectional clock)
+			)
+			(pin power_in line
+				(at -11.43 -2.54 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "VSS" power_in line)
+			)
+			(pin bidirectional line
+				(at -11.43 -6.35 0)
+				(length 2.54)
+				(name "S.W.P05"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "C1IND" input line)
+				(alternate "CLKI" input clock)
+				(alternate "OSCI" input clock)
+				(alternate "RA2" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -11.43 -10.16 0)
+				(length 2.54)
+				(name "S.W.P06"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "C2IND" input line)
+				(alternate "CLKO" output clock)
+				(alternate "OSCO" output clock)
+				(alternate "RA3" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -11.43 -13.97 0)
+				(length 2.54)
+				(name "S.W.P07(TX)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "RB4" bidirectional line)
+				(alternate "RP4" bidirectional line)
+				(alternate "SOSCI" output clock)
+			)
+			(pin bidirectional line
+				(at -11.43 -17.78 0)
+				(length 2.54)
+				(name "S.W.P08"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "PWRCLK" input clock)
+				(alternate "RA4" bidirectional line)
+				(alternate "SOSCO" output clock)
+			)
+			(pin power_in line
+				(at -11.43 -21.59 0)
+				(length 2.54)
+				(name "VDD_+3v3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -11.43 -25.4 0)
+				(length 2.54)
+				(name "S.W.P09(RX,5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "OCM1E" output line)
+				(alternate "PGD3" output line)
+				(alternate "RB5" bidirectional line)
+				(alternate "RP5" bidirectional line)
+				(alternate "SDA1 (Alt.)" bidirectional line)
+			)
+			(pin power_in line
+				(at 25.4 24.13 180)
+				(length 2.54)
+				(name "VDD_+3v3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AVDD" power_in line)
+			)
+			(pin power_in line
+				(at 25.4 20.32 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AVSS" power_in line)
+				(alternate "VSS" power_in line)
+			)
+			(pin bidirectional line
+				(at 25.4 16.51 180)
+				(length 2.54)
+				(name "S.W.P19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN9" input line)
+				(alternate "C3INA" input line)
+				(alternate "CTED6" input line)
+				(alternate "RB15" bidirectional line)
+				(alternate "RP15" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 25.4 12.7 180)
+				(length 2.54)
+				(name "S.W.P18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN6" input line)
+				(alternate "C3INB" input line)
+				(alternate "CTED5" input line)
+				(alternate "CVREF" output line)
+				(alternate "RB14" bidirectional line)
+				(alternate "RP14" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 25.4 8.89 180)
+				(length 2.54)
+				(name "S.W.P17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN7" input line)
+				(alternate "C1INC" input line)
+				(alternate "CTPLS" output line)
+				(alternate "OCM1D" output line)
+				(alternate "RB13" bidirectional line)
+				(alternate "RP13" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 25.4 5.08 180)
+				(length 2.54)
+				(name "S.W.P16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN8" input line)
+				(alternate "LVDIN" input line)
+				(alternate "RB12" bidirectional line)
+				(alternate "RP12" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 25.4 1.27 180)
+				(length 2.54)
+				(name "S.W.P15(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "CTED9" input line)
+				(alternate "PGC2" bidirectional clock)
+				(alternate "RB11" bidirectional line)
+				(alternate "REFI1" input clock)
+				(alternate "RP11" bidirectional line)
+				(alternate "TMS" input line)
+			)
+			(pin bidirectional line
+				(at 25.4 -2.54 180)
+				(length 2.54)
+				(name "S.W.P14(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "CTED11" input line)
+				(alternate "OCM1C" output line)
+				(alternate "PGD2" output line)
+				(alternate "RB10" bidirectional line)
+				(alternate "RP10" bidirectional line)
+				(alternate "TDI" input line)
+			)
+			(pin passive line
+				(at 25.4 -6.35 180)
+				(length 2.54)
+				(name "VCAP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 25.4 -10.16 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "VSS" power_in line)
+			)
+			(pin bidirectional line
+				(at 25.4 -13.97 180)
+				(length 2.54)
+				(name "S.W.P13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "C1INC, C2INC, C3INC" input line)
+				(alternate "CTED4" input line)
+				(alternate "RB9" bidirectional line)
+				(alternate "RP9" bidirectional line)
+				(alternate "SDA1" bidirectional line)
+				(alternate "T1CK" input clock)
+				(alternate "TD0" output line)
+				(alternate "TMPRN" input inverted)
+			)
+			(pin bidirectional line
+				(at 25.4 -17.78 180)
+				(length 2.54)
+				(name "S.W.P12(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "CTED10" input line)
+				(alternate "OCM1B" output line)
+				(alternate "RB8" bidirectional line)
+				(alternate "RP8" bidirectional line)
+				(alternate "SCL1" bidirectional clock)
+				(alternate "TCK" output clock)
+			)
+			(pin bidirectional line
+				(at 25.4 -21.59 180)
+				(length 2.54)
+				(name "S.W.P11(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "CTED10" input line)
+				(alternate "OCM1B" output line)
+				(alternate "RB8" bidirectional line)
+				(alternate "RP8" bidirectional line)
+				(alternate "SCL1" bidirectional clock)
+				(alternate "TCK" bidirectional clock)
+			)
+			(pin bidirectional line
+				(at 25.4 -25.4 180)
+				(length 2.54)
+				(name "SW.P10(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "OCM1F" output line)
+				(alternate "PGC3" input clock)
+				(alternate "RB6" bidirectional line)
+				(alternate "RP6" bidirectional line)
+				(alternate "SCL1 (Alt.)" bidirectional clock)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SerialWombat-18AB(PIC24FJ256GA702-I/SP) SPDIP-28"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-28_W7.62mm"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "kicad-embed://PIC24FJ256GA705-Family-Data-Sheet-DS30010118E.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "28 Pin DIP Serial Wombat 18AB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SerialWombat-18AB(PIC24FJ256GA702-I/SP) SPDIP-28_0_1"
+			(rectangle
+				(start -8.89 29.21)
+				(end 22.86 -29.21)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "SerialWombat-18AB(PIC24FJ256GA702-I/SP) SPDIP-28_1_1"
+			(pin input inverted
+				(at -11.43 24.13 0)
+				(length 2.54)
+				(name "MCLR_(Reset)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -11.43 20.32 0)
+				(length 2.54)
+				(name "S.W.P00"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN0" input line)
+				(alternate "C3INC" input line)
+				(alternate "CTED1" input line)
+				(alternate "CVREF+" input line)
+				(alternate "RA0" input line)
+				(alternate "RP26" input inverted)
+				(alternate "VREF+" input line)
+			)
+			(pin input line
+				(at -11.43 16.51 0)
+				(length 2.54)
+				(name "Addr"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN1" input line)
+				(alternate "C3IND" input line)
+				(alternate "CTED2" bidirectional line)
+				(alternate "CVREF-" input line)
+				(alternate "RA1" bidirectional line)
+				(alternate "RP27" bidirectional line)
+				(alternate "VREF-" input line)
+			)
+			(pin bidirectional line
+				(at -11.43 12.7 0)
+				(length 2.54)
+				(name "S.W.P01"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN2" input line)
+				(alternate "C2INB" input line)
+				(alternate "CTCMP" input line)
+				(alternate "PGD1" output line)
+				(alternate "RB0" bidirectional line)
+				(alternate "RP0" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -11.43 8.89 0)
+				(length 2.54)
+				(name "S.W.P02"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN1-" input line)
+				(alternate "AN3" input line)
+				(alternate "C2INA" input line)
+				(alternate "CTED12" input line)
+				(alternate "PGC1" input clock)
+				(alternate "RB1" bidirectional line)
+				(alternate "RP1" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -11.43 5.08 0)
+				(length 2.54)
+				(name "S.W.P03(SDA)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN4" input line)
+				(alternate "C1INB" input line)
+				(alternate "CTED13" input line)
+				(alternate "RB2" bidirectional line)
+				(alternate "RP2" bidirectional line)
+				(alternate "S.W.P3" bidirectional line)
+				(alternate "SDA2" bidirectional line)
+			)
+			(pin input clock
+				(at -11.43 1.27 0)
+				(length 2.54)
+				(name "S.W.P04(SCL)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN5" input line)
+				(alternate "C1INA" input line)
+				(alternate "CTED8" input line)
+				(alternate "RB3" bidirectional line)
+				(alternate "RP3" bidirectional line)
+				(alternate "SCL2" bidirectional clock)
+			)
+			(pin power_in line
+				(at -11.43 -2.54 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "VSS" power_in line)
+			)
+			(pin bidirectional line
+				(at -11.43 -6.35 0)
+				(length 2.54)
+				(name "S.W.P05"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "C1IND" input line)
+				(alternate "CLKI" input clock)
+				(alternate "OSCI" input clock)
+				(alternate "RA2" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -11.43 -10.16 0)
+				(length 2.54)
+				(name "S.W.P06"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "C2IND" input line)
+				(alternate "CLKO" output clock)
+				(alternate "OSCO" output clock)
+				(alternate "RA3" bidirectional line)
+			)
+			(pin bidirectional line
+				(at -11.43 -13.97 0)
+				(length 2.54)
+				(name "S.W.P07(TX)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "RB4" bidirectional line)
+				(alternate "RP4" bidirectional line)
+				(alternate "SOSCI" output clock)
+			)
+			(pin bidirectional line
+				(at -11.43 -17.78 0)
+				(length 2.54)
+				(name "S.W.P08"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "PWRCLK" input clock)
+				(alternate "RA4" bidirectional line)
+				(alternate "SOSCO" output clock)
+			)
+			(pin power_in line
+				(at -11.43 -21.59 0)
+				(length 2.54)
+				(name "VDD_+3v3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -11.43 -25.4 0)
+				(length 2.54)
+				(name "S.W.P09(RX,5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "OCM1E" output line)
+				(alternate "PGD3" output line)
+				(alternate "RB5" bidirectional line)
+				(alternate "RP5" bidirectional line)
+				(alternate "SDA1 (Alt.)" bidirectional line)
+			)
+			(pin power_in line
+				(at 25.4 24.13 180)
+				(length 2.54)
+				(name "VDD_+3v3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AVDD" power_in line)
+			)
+			(pin power_in line
+				(at 25.4 20.32 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AVSS" power_in line)
+				(alternate "VSS" power_in line)
+			)
+			(pin bidirectional line
+				(at 25.4 16.51 180)
+				(length 2.54)
+				(name "S.W.P19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN9" input line)
+				(alternate "C3INA" input line)
+				(alternate "CTED6" input line)
+				(alternate "RB15" bidirectional line)
+				(alternate "RP15" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 25.4 12.7 180)
+				(length 2.54)
+				(name "S.W.P18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN6" input line)
+				(alternate "C3INB" input line)
+				(alternate "CTED5" input line)
+				(alternate "CVREF" output line)
+				(alternate "RB14" bidirectional line)
+				(alternate "RP14" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 25.4 8.89 180)
+				(length 2.54)
+				(name "S.W.P17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN7" input line)
+				(alternate "C1INC" input line)
+				(alternate "CTPLS" output line)
+				(alternate "OCM1D" output line)
+				(alternate "RB13" bidirectional line)
+				(alternate "RP13" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 25.4 5.08 180)
+				(length 2.54)
+				(name "S.W.P16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "AN8" input line)
+				(alternate "LVDIN" input line)
+				(alternate "RB12" bidirectional line)
+				(alternate "RP12" bidirectional line)
+			)
+			(pin bidirectional line
+				(at 25.4 1.27 180)
+				(length 2.54)
+				(name "S.W.P15(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "CTED9" input line)
+				(alternate "PGC2" bidirectional clock)
+				(alternate "RB11" bidirectional line)
+				(alternate "REFI1" input clock)
+				(alternate "RP11" bidirectional line)
+				(alternate "TMS" input line)
+			)
+			(pin bidirectional line
+				(at 25.4 -2.54 180)
+				(length 2.54)
+				(name "S.W.P14(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "CTED11" input line)
+				(alternate "OCM1C" output line)
+				(alternate "PGD2" output line)
+				(alternate "RB10" bidirectional line)
+				(alternate "RP10" bidirectional line)
+				(alternate "TDI" input line)
+			)
+			(pin passive line
+				(at 25.4 -6.35 180)
+				(length 2.54)
+				(name "VCAP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 25.4 -10.16 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "VSS" power_in line)
+			)
+			(pin bidirectional line
+				(at 25.4 -13.97 180)
+				(length 2.54)
+				(name "S.W.P13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "C1INC, C2INC, C3INC" input line)
+				(alternate "CTED4" input line)
+				(alternate "RB9" bidirectional line)
+				(alternate "RP9" bidirectional line)
+				(alternate "SDA1" bidirectional line)
+				(alternate "T1CK" input clock)
+				(alternate "TD0" output line)
+				(alternate "TMPRN" input inverted)
+			)
+			(pin bidirectional line
+				(at 25.4 -17.78 180)
+				(length 2.54)
+				(name "S.W.P12(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "CTED10" input line)
+				(alternate "OCM1B" output line)
+				(alternate "RB8" bidirectional line)
+				(alternate "RP8" bidirectional line)
+				(alternate "SCL1" bidirectional clock)
+				(alternate "TCK" output clock)
+			)
+			(pin bidirectional line
+				(at 25.4 -21.59 180)
+				(length 2.54)
+				(name "S.W.P11(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "CTED10" input line)
+				(alternate "OCM1B" output line)
+				(alternate "RB8" bidirectional line)
+				(alternate "RP8" bidirectional line)
+				(alternate "SCL1" bidirectional clock)
+				(alternate "TCK" bidirectional clock)
+			)
+			(pin bidirectional line
+				(at 25.4 -25.4 180)
+				(length 2.54)
+				(name "SW.P10(5v)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(alternate "OCM1F" output line)
+				(alternate "PGC3" input clock)
+				(alternate "RB6" bidirectional line)
+				(alternate "RP6" bidirectional line)
+				(alternate "SCL1 (Alt.)" bidirectional clock)
+			)
+		)
+		(embedded_fonts no)
+	)
+)

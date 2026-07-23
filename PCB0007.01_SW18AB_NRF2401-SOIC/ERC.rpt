@@ -1,0 +1,132 @@
+ERC report (2026-07-19T11:51:34-0400, Encoding UTF8)
+Report includes: Errors, Warnings, Exclusions
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(3000 mils, 3500 mils): Symbol #P+1 Pin 1 [+5V, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4200 mils, 3900 mils): Symbol #+3V1 Pin 1 [+3V3, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(7500 mils, 4300 mils): Symbol #GND1 Pin 1 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8900 mils, 2700 mils): Symbol J3 Pin S1 [SHIELD, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8900 mils, 3700 mils): Symbol J2 Pin S1 [SHIELD, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(9500 mils, 5600 mils): Symbol ESP01 Pin 5 [5, Passive, Inverted]
+[footprint_link_issues]: Footprint '0207_12' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(1500 mils, 2700 mils): Symbol SDA0 [R-US_0207/12]
+[footprint_link_issues]: Footprint 'R0603' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(1700 mils, 2700 mils): Symbol R3S0 [R-US_R0603]
+[footprint_link_issues]: Footprint 'R0603' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(2000 mils, 2700 mils): Symbol R4S0 [R-US_R0603]
+[footprint_link_issues]: Footprint '0207_12' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(2200 mils, 2700 mils): Symbol SCL0 [R-US_0207/12]
+[footprint_link_issues]: Footprint '1X06' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(2800 mils, 2500 mils): Symbol FTDICABLE1 [PINHD-1X6]
+[footprint_link_issues]: Footprint 'C0603' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(1600 mils, 4300 mils): Symbol C5 [C-USC0603]
+[footprint_link_issues]: Footprint '1X06' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(4200 mils, 2500 mils): Symbol FTDICABLE0 [PINHD-1X6]
+[footprint_link_issues]: Footprint 'SOT_23A_MICROCHIP' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(2500 mils, 4300 mils): Symbol U$1 [MCP1702T]
+[footprint_link_issues]: Footprint 'C0603' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(3500 mils, 3800 mils): Symbol C4 [C-USC0603]
+[footprint_link_issues]: Footprint 'R1206' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(5000 mils, 2500 mils): Symbol RWASTE0 [R-US_R1206]
+[footprint_link_issues]: Footprint '1X01' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(4000 mils, 4200 mils): Symbol VDD0 [PINHD-1X1]
+[footprint_link_issues]: Footprint '0207_12' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(4600 mils, 3700 mils): Symbol R1T0 [R-US_0207/12]
+[footprint_link_issues]: Footprint '1X02' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(1600 mils, 5800 mils): Symbol JP3 [PINHD-1X2]
+[footprint_link_issues]: Footprint 'R0603' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(4600 mils, 4000 mils): Symbol R1S0 [R-US_R0603]
+[footprint_link_issues]: Footprint '0207_12' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(2200 mils, 5800 mils): Symbol R2T0 [R-US_0207/12]
+[footprint_link_issues]: Footprint '1X01' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(5200 mils, 3400 mils): Symbol RST0 [PINHD-1X1]
+[footprint_link_issues]: Footprint 'R0603' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(2500 mils, 5800 mils): Symbol R2S0 [R-US_R0603]
+[footprint_link_issues]: Footprint 'C025-030X050' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(2800 mils, 6800 mils): Symbol C5V0 [C-US025-030X050]
+[footprint_link_issues]: Footprint 'TO-92' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(2100 mils, 7100 mils): Symbol U$2 [MCP1702TTO92]
+[footprint_link_issues]: Footprint 'I2C_GND_VCC_SCL_SDA' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(7000 mils, 2700 mils): Symbol OLED0 [OLED_I2C]
+[footprint_link_issues]: Footprint 'C025-030X050' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(1300 mils, 7500 mils): Symbol C3V3 [C-US025-030X050]
+[footprint_link_issues]: Footprint 'SW18AB_DIP' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(5900 mils, 5300 mils): Symbol U1 [SERIALWOMBAT_18AB]
+[footprint_link_issues]: Footprint 'C0603' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(7300 mils, 4000 mils): Symbol C1S0 [C-USC0603]
+[footprint_link_issues]: Footprint 'C025-030X050' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(7600 mils, 4000 mils): Symbol YEL1 [C-US025-030X050]
+[footprint_link_issues]: Footprint 'C025-030X050' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(8000 mils, 4000 mils): Symbol YEL2 [C-US025-030X050]
+[footprint_link_issues]: Footprint '1X15' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(3700 mils, 8300 mils): Symbol JP1 [PINHD-1X15]
+[footprint_link_issues]: Footprint 'C0805' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(7300 mils, 5700 mils): Symbol C3S0 [C-USC0805]
+[footprint_link_issues]: Footprint '1X01' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(8100 mils, 4500 mils): Symbol VSS0 [PINHD-1X1]
+[footprint_link_issues]: Footprint 'C0603' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(8400 mils, 4000 mils): Symbol C2S0 [C-USC0603]
+[footprint_link_issues]: Footprint '1X15' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(4400 mils, 8300 mils): Symbol JP2 [PINHD-1X15]
+[footprint_link_issues]: Footprint 'JST_SM04B-SRSS-TB(LF)(SN)' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(9200 mils, 2400 mils): Symbol J3 [SM04B-SRSS-TB(LF)(SN)]
+[footprint_link_issues]: Footprint 'C025-030X050' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(7800 mils, 5700 mils): Symbol BLUE0 [C-US025-030X050]
+[footprint_link_issues]: Footprint 'JST_SM04B-SRSS-TB(LF)(SN)' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(9200 mils, 3400 mils): Symbol J2 [SM04B-SRSS-TB(LF)(SN)]
+[footprint_link_issues]: Footprint 'ART_SERIAL_WOMBAT_TORSO_THIRDINCH' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(9600 mils, 4800 mils): Symbol U$3 [ART_SERIAL_WOMBAT_TORSO.33INHIGH]
+[footprint_link_issues]: Footprint '2X04' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    ; warning
+    @(9600 mils, 5600 mils): Symbol ESP01 [PINHD-2X4]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9800 mils, 5500 mils): Horizontal Wire, length 500 mils
+
+ ** ERC messages: 42  Errors 6  Warnings 36

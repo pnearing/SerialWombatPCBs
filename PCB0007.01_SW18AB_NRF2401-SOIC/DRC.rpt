@@ -1,0 +1,1774 @@
+** Drc report for PCB0007.01_SW18AB_NRF2401.kicad_pcb **
+** Created on 2026-07-19T11:52:02-0400 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 414 DRC violations **
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1778 mm)
+    Local override; error
+    @(148.2471 mm, 113.6650 mm): Track [+3V3] on F.Cu, length 6.4516 mm
+    @(147.2311 mm, 119.6086 mm): PTH pad 4 [WP3_SDA] of ESP01
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1524 mm)
+    Local override; error
+    @(156.6291 mm, 136.2710 mm): Track [WP3_SDA] on B.Cu, length 9.4488 mm
+    @(154.9527 mm, 128.4986 mm): Track [+3V3] on B.Cu, length 1.9397 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1524 mm)
+    Local override; error
+    @(156.6291 mm, 136.2710 mm): Track [WP3_SDA] on B.Cu, length 9.4488 mm
+    @(156.3243 mm, 129.8702 mm): Track [+3V3] on B.Cu, length 6.0960 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1709 mm)
+    Local override; error
+    @(146.2659 mm, 118.5926 mm): Track [WP3_SDA] on F.Cu, length 2.2860 mm
+    @(145.0975 mm, 117.0178 mm): Track [WP4_SCL] on F.Cu, length 7.8308 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1524 mm)
+    Local override; error
+    @(139.8651 mm, 124.6886 mm): Track [WP3_SDA] on F.Cu, length 0.6466 mm
+    @(139.5603 mm, 122.5550 mm): Track [WP4_SCL] on F.Cu, length 2.7432 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1949 mm)
+    Local override; error
+    @(140.9319 mm, 127.5842 mm): Via [WP4_SCL] on F.Cu - B.Cu
+    @(139.0777 mm, 126.7206 mm): Track [+5V] on F.Cu, length 2.5504 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1707 mm)
+    Local override; error
+    @(157.3149 mm, 125.5268 mm): Track [GND] on F.Cu, length 0.7543 mm
+    @(156.1211 mm, 125.1886 mm): Pad 2 [+3V3] of J2 on F.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1709 mm)
+    Local override; error
+    @(143.9799 mm, 118.5926 mm): Track [WP3_SDA] on F.Cu, length 5.8192 mm
+    @(145.0975 mm, 117.0178 mm): Track [WP4_SCL] on F.Cu, length 7.8308 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1524 mm)
+    Local override; error
+    @(156.6291 mm, 136.2710 mm): Track [WP3_SDA] on B.Cu, length 9.4488 mm
+    @(156.3243 mm, 135.9662 mm): Track [+3V3] on B.Cu, length 1.0776 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1751 mm)
+    Local override; error
+    @(140.8811 mm, 125.1886 mm): Pad 3 [WP3_SDA] of J3 on F.Cu
+    @(139.5603 mm, 125.2982 mm): Track [WP4_SCL] on F.Cu, length 1.0776 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1614 mm)
+    Local override; error
+    @(138.3411 mm, 105.6386 mm): Track [WP9_RX] on F.Cu, length 4.9571 mm
+    @(140.8811 mm, 109.4486 mm): PTH pad 2 [+3V3] of SCL0
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1709 mm)
+    Local override; error
+    @(139.8651 mm, 122.7074 mm): Track [WP3_SDA] on F.Cu, length 1.9812 mm
+    @(145.0975 mm, 117.0178 mm): Track [WP4_SCL] on F.Cu, length 7.8308 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1676 mm)
+    Local override; error
+    @(138.1887 mm, 129.2606 mm): Track [WP7_TX] on F.Cu, length 5.1726 mm
+    @(142.1511 mm, 131.0386 mm): PTH pad 1 [GND] of FTDICABLE0
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1614 mm)
+    Local override; error
+    @(156.1211 mm, 96.7486 mm): PTH pad 1 [WP3_SDA] of SDA0
+    @(156.0195 mm, 95.5802 mm): Track [WP14] on F.Cu, length 1.5087 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1676 mm)
+    Local override; error
+    @(149.7711 mm, 122.1486 mm): PTH pad 5 [<no net>] of ESP01
+    @(149.7711 mm, 120.7262 mm): Track [WP9_RX] on B.Cu, length 1.9397 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1676 mm)
+    Local override; error
+    @(149.7711 mm, 119.6086 mm): PTH pad 6 [WP4_SCL] of ESP01
+    @(150.9903 mm, 119.8118 mm): Track [WP9_RX] on B.Cu, length 1.2932 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1676 mm)
+    Local override; error
+    @(150.0759 mm, 136.7282 mm): Track [WP7_TX] on F.Cu, length 2.5863 mm
+    @(149.7711 mm, 134.8486 mm): PTH pad 4 [WP9_RX] of FTDICABLE1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1524 mm)
+    Local override; error
+    @(143.9799 mm, 118.5926 mm): Track [WP3_SDA] on F.Cu, length 5.8192 mm
+    @(139.5603 mm, 122.5550 mm): Track [WP4_SCL] on F.Cu, length 2.7432 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1524 mm)
+    Local override; error
+    @(148.7043 mm, 125.7554 mm): Track [RTS] on B.Cu, length 3.2329 mm
+    @(148.3995 mm, 122.0978 mm): Track [WP9_RX] on B.Cu, length 7.0104 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1524 mm)
+    Local override; error
+    @(148.7043 mm, 128.6510 mm): Track [RTS] on B.Cu, length 2.8956 mm
+    @(148.3995 mm, 122.0978 mm): Track [WP9_RX] on B.Cu, length 7.0104 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1573 mm)
+    Local override; error
+    @(144.4117 mm, 138.3538 mm): PTH pad GND [GND] of OLED0
+    @(140.7795 mm, 136.5758 mm): Track [WP4_SCL] on B.Cu, length 4.0950 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1524 mm)
+    Local override; error
+    @(149.1615 mm, 129.1082 mm): Track [RTS] on B.Cu, length 0.6466 mm
+    @(148.3995 mm, 122.0978 mm): Track [WP9_RX] on B.Cu, length 7.0104 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1602 mm)
+    Local override; error
+    @(137.1219 mm, 103.2002 mm): Track [WP8] on F.Cu, length 5.1726 mm
+    @(140.9319 mm, 106.2482 mm): Via [WP7_TX] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1783 mm)
+    Local override; error
+    @(145.5039 mm, 81.8642 mm): Track [ADDR] on F.Cu, length 1.2932 mm
+    @(144.5641 mm, 81.5086 mm): PTH pad WP0 [WP0] of U1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1769 mm)
+    Local override; error
+    @(137.0711 mm, 118.3386 mm): Track [+5V] on F.Cu, length 2.8378 mm
+    @(138.1887 mm, 120.4214 mm): Via [WP7_TX] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1973 mm)
+    Local override; error
+    @(158.6103 mm, 105.6386 mm): Track [WP10] on F.Cu, length 4.9571 mm
+    @(156.1211 mm, 109.4486 mm): PTH pad 2 [+3V3] of SDA0
+[mirrored_text_on_front_layer]: Mirrored text on front layer
+    Local override; warning
+    @(142.6337 mm, 136.3218 mm): Reference field of OLED0
+[mirrored_text_on_front_layer]: Mirrored text on front layer
+    Local override; warning
+    @(143.4973 mm, 81.9912 mm): Reference field of RST0
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.8651 mm, 105.5116 mm): Segment of SCL0 on F.Silkscreen
+    @(138.9507 mm, 106.0958 mm): PCB text 'WP9RX' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.8651 mm, 105.5116 mm): Segment of SCL0 on F.Silkscreen
+    @(139.2301 mm, 103.1748 mm): PCB text 'Optional' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.1285 mm, 85.9282 mm): PCB text 'WP1' on F.Silkscreen
+    @(139.4333 mm, 86.3854 mm): PCB text 'WP1' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.2461 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+    @(139.6111 mm, 83.4136 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.2461 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+    @(139.6111 mm, 83.4136 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.5349 mm, 86.0298 mm): Reference field of VSS0
+    @(140.2461 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.2461 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+    @(141.5161 mm, 84.0486 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.1285 mm, 85.9282 mm): PCB text 'WP1' on F.Silkscreen
+    @(139.6111 mm, 84.6836 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.1285 mm, 85.9282 mm): PCB text 'WP1' on F.Silkscreen
+    @(139.5349 mm, 86.0298 mm): Reference field of VSS0
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.5349 mm, 86.0298 mm): Reference field of VSS0
+    @(139.6111 mm, 84.6836 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.2461 mm, 86.5886 mm): Segment of VSS0 on F.Silkscreen
+    @(139.6111 mm, 85.9536 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.2461 mm, 86.5886 mm): Segment of VSS0 on F.Silkscreen
+    @(139.6111 mm, 85.9536 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.2461 mm, 86.5886 mm): Segment of VSS0 on F.Silkscreen
+    @(141.5161 mm, 86.5886 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(138.9507 mm, 106.0958 mm): PCB text 'WP9RX' on F.Silkscreen
+    @(139.8651 mm, 105.5116 mm): Segment of SCL0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.7381 mm, 106.0196 mm): Segment of SCL0 on F.Silkscreen
+    @(138.9507 mm, 106.0958 mm): PCB text 'WP9RX' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.9921 mm, 106.0196 mm): Arc of SCL0 on F.Silkscreen
+    @(138.9507 mm, 106.0958 mm): PCB text 'WP9RX' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(138.9507 mm, 106.0958 mm): PCB text 'WP9RX' on F.Silkscreen
+    @(140.2207 mm, 101.4476 mm): Reference field of SCL0
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(141.5161 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+    @(141.5161 mm, 84.0486 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(141.5161 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+    @(139.1285 mm, 85.9282 mm): PCB text 'WP1' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(141.5161 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+    @(139.5349 mm, 86.0298 mm): Reference field of VSS0
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(141.5161 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+    @(142.1511 mm, 83.4136 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.1285 mm, 85.9282 mm): PCB text 'WP1' on F.Silkscreen
+    @(142.1511 mm, 84.6836 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.5349 mm, 86.0298 mm): Reference field of VSS0
+    @(142.1511 mm, 84.6836 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.2461 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+    @(141.5161 mm, 84.0486 mm): Segment of RST0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(142.1511 mm, 83.4136 mm): Segment of RST0 on F.Silkscreen
+    @(140.2461 mm, 84.0486 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.2461 mm, 86.5886 mm): Segment of VSS0 on F.Silkscreen
+    @(141.5161 mm, 86.5886 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.2461 mm, 86.5886 mm): Segment of VSS0 on F.Silkscreen
+    @(142.1511 mm, 85.9536 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(141.5161 mm, 86.5886 mm): Segment of VSS0 on F.Silkscreen
+    @(141.5161 mm, 86.5886 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(141.5161 mm, 86.5886 mm): Segment of VSS0 on F.Silkscreen
+    @(142.1511 mm, 85.9536 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.5349 mm, 86.0298 mm): Reference field of VSS0
+    @(142.1511 mm, 85.9536 mm): Segment of VDD0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(142.1003 mm, 117.8306 mm): PCB text 'Required' on F.Silkscreen
+    @(139.9921 mm, 117.0686 mm): Arc of YEL2 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(142.1003 mm, 117.8306 mm): PCB text 'Required' on F.Silkscreen
+    @(144.3101 mm, 117.3226 mm): Segment of YEL2 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(159.0421 mm, 128.5494 mm): PCB text 'Optional' on F.Silkscreen
+    @(157.4165 mm, 130.1496 mm): Reference field of C5V0
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(157.5435 mm, 133.3246 mm): Arc of C5V0 on F.Silkscreen
+    @(156.9339 mm, 132.4102 mm): PCB text 'Optional' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(157.2895 mm, 130.7846 mm): Segment of C5V0 on F.Silkscreen
+    @(156.9339 mm, 132.4102 mm): PCB text 'Optional' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(157.5435 mm, 130.7846 mm): Arc of C5V0 on F.Silkscreen
+    @(156.9339 mm, 132.4102 mm): PCB text 'Optional' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(136.1059 mm, 136.9822 mm): Segment of C3V3 on F.Silkscreen
+    @(138.0109 mm, 136.7536 mm): PCB text 'Optional' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(136.1059 mm, 137.2362 mm): Arc of C3V3 on F.Silkscreen
+    @(138.0109 mm, 136.7536 mm): PCB text 'Optional' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.8811 mm, 130.4036 mm): Segment of FTDICABLE0 on F.Silkscreen
+    @(141.3122 mm, 131.0386 mm): Zone [<no net>] on F.Silkscreen, priority 6
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.8811 mm, 134.2136 mm): Segment of FTDICABLE1 on F.Silkscreen
+    @(141.3122 mm, 134.8486 mm): Zone [<no net>] on F.Silkscreen, priority 6
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(141.3122 mm, 134.8486 mm): Zone [<no net>] on F.Silkscreen, priority 6
+    @(138.0109 mm, 136.7536 mm): PCB text 'Optional' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158.9659 mm, 137.7188 mm): Arc of U$2 on F.Silkscreen
+    @(159.2707 mm, 140.6144 mm): PCB text 'Optional' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158.9659 mm, 137.7188 mm): Arc of U$2 on F.Silkscreen
+    @(159.2707 mm, 140.6144 mm): PCB text 'Optional' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.1699 mm, 139.8778 mm): Reference field of C3V3
+    @(140.4239 mm, 140.0302 mm): Segment of C3V3 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(140.1699 mm, 139.8778 mm): Reference field of C3V3
+    @(136.1059 mm, 139.7762 mm): Arc of C3V3 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(154.5209 mm, 117.1448 mm): Segment of BLUE0 on F.Silkscreen
+    @(152.3619 mm, 117.6274 mm): PCB text 'Required' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(154.5209 mm, 116.8908 mm): Arc of BLUE0 on F.Silkscreen
+    @(152.3619 mm, 117.6274 mm): PCB text 'Required' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(139.7381 mm, 117.0686 mm): Segment of YEL2 on F.Silkscreen
+    @(138.6459 mm, 116.5606 mm): PCB text 'G' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(142.1003 mm, 117.8306 mm): PCB text 'Required' on F.Silkscreen
+    @(144.3101 mm, 117.0686 mm): Arc of YEL2 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(150.2029 mm, 116.8908 mm): Arc of BLUE0 on F.Silkscreen
+    @(152.3619 mm, 117.6274 mm): PCB text 'Required' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(146.0881 mm, 76.1746 mm): Segment of R1T0 on F.Silkscreen
+    @(148.7043 mm, 76.5556 mm): PCB text 'Required' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(148.7043 mm, 76.5556 mm): PCB text 'Required' on F.Silkscreen
+    @(150.9141 mm, 76.1746 mm): Segment of R1T0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(151.4221 mm, 76.3016 mm): Segment of R1T0 on F.Silkscreen
+    @(148.7043 mm, 76.5556 mm): PCB text 'Required' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(157.6705 mm, 103.0224 mm): PCB text 'Optional, 1 Per Project' on F.Silkscreen
+    @(157.2641 mm, 100.1776 mm): Segment of SDA0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(157.6705 mm, 103.0224 mm): PCB text 'Optional, 1 Per Project' on F.Silkscreen
+    @(157.0101 mm, 100.1776 mm): Arc of SDA0 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(135.5933 mm, 81.8860 mm): PCB text 'WP0' on F.Silkscreen
+    @(136.4361 mm, 81.5086 mm): Segment of JP1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(135.5933 mm, 81.8860 mm): PCB text 'WP0' on F.Silkscreen
+    @(137.7061 mm, 81.5086 mm): Segment of JP1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(151.1427 mm, 124.4092 mm): PCB text 'MCP1702
+T-3302' on B.Silkscreen
+    @(143.2179 mm, 123.1392 mm): Reference field of RWASTE0
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158.2801 mm, 106.2736 mm): PCB text 'WP10' on B.Silkscreen
+    @(155.0543 mm, 101.4984 mm): Reference field of R3S0
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(146.5199 mm, 102.9970 mm): Reference field of C3S0
+    @(149.2123 mm, 83.5152 mm): PCB text 'CHIP OTHER SIDE
+SerialWombat.com' on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(139.4333 mm, 86.3854 mm): PCB text 'WP1' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(139.4333 mm, 89.3318 mm): PCB text 'WP2' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(148.3741 mm, 137.0076 mm): PCB text 'Optional' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.7104 mm, 119.0768 mm): PCB text '5V' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.3187 mm, 91.0082 mm): PCB text '16' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.3695 mm, 98.7044 mm): PCB text '13' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.3695 mm, 101.2190 mm): PCB text '12' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.3695 mm, 106.2482 mm): PCB text '10' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.3949 mm, 83.3120 mm): PCB text '19' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.3949 mm, 109.1946 mm): PCB text '3V3' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.3949 mm, 111.7092 mm): PCB text '3V3' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.4681 mm, 124.7902 mm): PCB text 'SM04B-
+SRSS-TB' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(158.6357 mm, 124.7140 mm): PCB text 'SM04B-
+SRSS-TB' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(139.1285 mm, 85.9282 mm): PCB text 'WP1' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(139.9667 mm, 109.8296 mm): PCB text '3V3' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.1427 mm, 124.4092 mm): PCB text 'MCP1702
+T-3302' on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.8115 mm, 88.5698 mm): PCB text 'WP2' on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.8369 mm, 86.0298 mm): PCB text 'WP1' on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(160.9471 mm, 140.4366 mm): PCB text '5' on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(139.5349 mm, 86.0298 mm): Reference field of VSS0
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(140.8811 mm, 131.6736 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(141.5161 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(141.5161 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.7861 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.7861 mm, 132.3086 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(143.4211 mm, 130.4036 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(143.4211 mm, 131.6736 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.0561 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.0561 mm, 132.3086 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(145.3261 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(145.3261 mm, 132.3086 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(145.9611 mm, 130.4036 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(145.9611 mm, 131.6736 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(146.5961 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(146.5961 mm, 132.3086 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(147.8661 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(147.8661 mm, 132.3086 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(148.5011 mm, 131.6736 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(148.5011 mm, 131.6736 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.1361 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.1361 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(150.4061 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(150.4061 mm, 132.3086 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.0411 mm, 130.4036 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.0411 mm, 131.6736 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.6761 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.6761 mm, 132.3086 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.9461 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.9461 mm, 132.3086 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(153.5811 mm, 131.6736 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(153.5811 mm, 131.6736 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(154.2161 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(154.2161 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.4861 mm, 129.7686 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.4861 mm, 132.3086 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(156.1211 mm, 131.6736 mm): Segment of FTDICABLE0 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(141.3129 mm, 72.2630 mm): Reference field of R2T0
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 83.4136 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 84.6836 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 85.9536 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 87.2236 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 88.4936 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 91.0336 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 92.3036 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 93.5736 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 94.8436 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 96.1136 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 98.6536 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 99.9236 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 101.1936 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 102.4636 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 103.7336 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 106.2736 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 107.5436 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 108.8136 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 110.0836 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 111.3536 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 113.8936 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 115.1636 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 116.4336 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 117.7036 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 118.9736 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 81.5086 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 84.0486 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 86.5886 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 89.1286 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 89.1286 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 91.6686 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 94.2086 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 96.7486 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 96.7486 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 99.2886 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 101.8286 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 104.3686 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 104.3686 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 106.9086 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 109.4486 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 111.9886 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 111.9886 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 114.5286 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 117.0686 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 119.6086 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 84.0486 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 86.5886 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 91.6686 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 94.2086 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 99.2886 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 101.8286 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 106.9086 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 109.4486 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 114.5286 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 117.0686 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 82.1436 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 82.1436 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 83.4136 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 84.6836 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 85.9536 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 87.2236 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 88.4936 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 89.7636 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 89.7636 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 91.0336 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 92.3036 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 93.5736 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 94.8436 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 96.1136 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 97.3836 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 97.3836 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 98.6536 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 99.9236 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 101.1936 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 102.4636 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 103.7336 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 105.0036 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 105.0036 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 106.2736 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 107.5436 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 108.8136 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 110.0836 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 111.3536 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 112.6236 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 112.6236 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 113.8936 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 115.1636 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 116.4336 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 117.7036 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 118.9736 mm): Segment of JP1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 74.5236 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 75.7936 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 77.0636 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 78.3336 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(135.8011 mm, 78.3336 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(136.4361 mm, 76.4286 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 73.8886 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 76.4286 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(137.7061 mm, 78.9686 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 74.5236 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 75.7936 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.3411 mm, 77.0636 mm): Segment of JP3 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(140.8811 mm, 135.4836 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(141.5161 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(141.5161 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.7861 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.7861 mm, 136.1186 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(143.4211 mm, 134.2136 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(143.4211 mm, 135.4836 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.0561 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(144.0561 mm, 136.1186 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(145.3261 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(145.3261 mm, 136.1186 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(145.9611 mm, 134.2136 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(145.9611 mm, 135.4836 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(146.5961 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(146.5961 mm, 136.1186 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(147.8661 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(147.8661 mm, 136.1186 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(148.5011 mm, 135.4836 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(148.5011 mm, 135.4836 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.1361 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149.1361 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(150.4061 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(150.4061 mm, 136.1186 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.0411 mm, 134.2136 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.0411 mm, 135.4836 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.6761 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.6761 mm, 136.1186 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.9461 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.9461 mm, 136.1186 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(153.5811 mm, 135.4836 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(153.5811 mm, 135.4836 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(154.2161 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(154.2161 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.4861 mm, 133.5786 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.4861 mm, 136.1186 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(156.1211 mm, 135.4836 mm): Segment of FTDICABLE1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(158.6611 mm, 83.4136 mm): Segment of JP2 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(158.6611 mm, 84.6836 mm): Segment of JP2 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(158.6611 mm, 85.9536 mm): Segment of JP2 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(158.6611 mm, 87.2236 mm): Segment of JP2 on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(138.9507 mm, 106.0958 mm): PCB text 'WP9RX' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(138.9507 mm, 106.0958 mm): PCB text 'WP9RX' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0610 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(139.4333 mm, 86.3854 mm): PCB text 'WP1' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7010 mm)
+    Rule: board setup constraints silk text height; warning
+    @(139.4333 mm, 86.3854 mm): PCB text 'WP1' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0610 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(139.4333 mm, 89.3318 mm): PCB text 'WP2' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7010 mm)
+    Rule: board setup constraints silk text height; warning
+    @(139.4333 mm, 89.3318 mm): PCB text 'WP2' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6268 mm, 113.9299 mm): PCB text 'G' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6268 mm, 113.9299 mm): PCB text 'G' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6268 mm, 116.5461 mm): PCB text 'G' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6268 mm, 116.5461 mm): PCB text 'G' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6327 mm, 88.2142 mm): PCB text '2' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6327 mm, 88.2142 mm): PCB text '2' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6581 mm, 98.4504 mm): PCB text '6' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6581 mm, 98.4504 mm): PCB text '6' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6581 mm, 100.9142 mm): PCB text '7' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6581 mm, 100.9142 mm): PCB text '7' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6581 mm, 103.5050 mm): PCB text '8' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6581 mm, 103.5050 mm): PCB text '8' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6835 mm, 83.0326 mm): PCB text '0' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6835 mm, 83.0326 mm): PCB text '0' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6835 mm, 85.6996 mm): PCB text '1' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6835 mm, 85.6996 mm): PCB text '1' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6835 mm, 90.7034 mm): PCB text '3' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6835 mm, 90.7034 mm): PCB text '3' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6835 mm, 93.2180 mm): PCB text '4' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6835 mm, 93.2180 mm): PCB text '4' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6835 mm, 95.9358 mm): PCB text '5' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6835 mm, 95.9358 mm): PCB text '5' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(134.6835 mm, 105.9688 mm): PCB text '9' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(134.6835 mm, 105.9688 mm): PCB text '9' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(161.5567 mm, 116.2812 mm): PCB text 'G' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(161.5567 mm, 116.2812 mm): PCB text 'G' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(161.6075 mm, 113.5888 mm): PCB text 'G' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(161.6075 mm, 113.5888 mm): PCB text 'G' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(138.0109 mm, 136.7536 mm): PCB text 'Optional' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(138.0109 mm, 136.7536 mm): PCB text 'Optional' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(142.1003 mm, 117.8306 mm): PCB text 'Required' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(142.1003 mm, 117.8306 mm): PCB text 'Required' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(148.3741 mm, 137.0076 mm): PCB text 'Optional' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(148.3741 mm, 137.0076 mm): PCB text 'Optional' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(148.7043 mm, 76.5556 mm): PCB text 'Required' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(148.7043 mm, 76.5556 mm): PCB text 'Required' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(152.3619 mm, 117.6274 mm): PCB text 'Required' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(152.3619 mm, 117.6274 mm): PCB text 'Required' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(153.9367 mm, 72.7202 mm): PCB text 'Optional' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(153.9367 mm, 72.7202 mm): PCB text 'Optional' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(158.5595 mm, 80.0354 mm): PCB text 'Required' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(158.5595 mm, 80.0354 mm): PCB text 'Required' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(159.0421 mm, 128.5494 mm): PCB text 'Optional' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(159.0421 mm, 128.5494 mm): PCB text 'Optional' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(159.2707 mm, 140.6144 mm): PCB text 'Optional' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(159.2707 mm, 140.6144 mm): PCB text 'Optional' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(135.3439 mm, 109.1184 mm): PCB text '3V3' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(135.3439 mm, 109.1184 mm): PCB text '3V3' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(135.3439 mm, 111.8362 mm): PCB text '3V3' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(135.3439 mm, 111.8362 mm): PCB text '3V3' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(135.7104 mm, 119.0768 mm): PCB text '5V' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(135.7104 mm, 119.0768 mm): PCB text '5V' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.3187 mm, 91.0082 mm): PCB text '16' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.3187 mm, 91.0082 mm): PCB text '16' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.3695 mm, 98.7044 mm): PCB text '13' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.3695 mm, 98.7044 mm): PCB text '13' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.3695 mm, 101.2190 mm): PCB text '12' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.3695 mm, 101.2190 mm): PCB text '12' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.3695 mm, 106.2482 mm): PCB text '10' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.3695 mm, 106.2482 mm): PCB text '10' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.3949 mm, 83.3120 mm): PCB text '19' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.3949 mm, 83.3120 mm): PCB text '19' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.3949 mm, 109.1946 mm): PCB text '3V3' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.3949 mm, 109.1946 mm): PCB text '3V3' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.3949 mm, 111.7092 mm): PCB text '3V3' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.3949 mm, 111.7092 mm): PCB text '3V3' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.4203 mm, 93.5482 mm): PCB text '15' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.4203 mm, 93.5482 mm): PCB text '15' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.4203 mm, 96.1390 mm): PCB text '14' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.4203 mm, 96.1390 mm): PCB text '14' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.4203 mm, 103.7336 mm): PCB text '11' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.4203 mm, 103.7336 mm): PCB text '11' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.4457 mm, 86.0044 mm): PCB text '18' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.4457 mm, 86.0044 mm): PCB text '18' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.4457 mm, 88.4936 mm): PCB text '17' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.4457 mm, 88.4936 mm): PCB text '17' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(162.7360 mm, 119.0006 mm): PCB text '5V' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.7360 mm, 119.0006 mm): PCB text '5V' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(135.5471 mm, 124.4346 mm): PCB text 'Optional' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(135.5471 mm, 124.4346 mm): PCB text 'Optional' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(138.4681 mm, 124.7902 mm): PCB text 'SM04B-
+SRSS-TB' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(138.4681 mm, 124.7902 mm): PCB text 'SM04B-
+SRSS-TB' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(139.2301 mm, 103.1748 mm): PCB text 'Optional' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(139.2301 mm, 103.1748 mm): PCB text 'Optional' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(142.5575 mm, 103.5050 mm): PCB text '1 Per Project' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(142.5575 mm, 103.5050 mm): PCB text '1 Per Project' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(156.9339 mm, 132.4102 mm): PCB text 'Optional' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(156.9339 mm, 132.4102 mm): PCB text 'Optional' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(157.6705 mm, 103.0224 mm): PCB text 'Optional, 1 Per Project' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(157.6705 mm, 103.0224 mm): PCB text 'Optional, 1 Per Project' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(158.6357 mm, 124.7140 mm): PCB text 'SM04B-
+SRSS-TB' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(158.6357 mm, 124.7140 mm): PCB text 'SM04B-
+SRSS-TB' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(161.4043 mm, 124.7648 mm): PCB text 'Optional' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(161.4043 mm, 124.7648 mm): PCB text 'Optional' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(146.4945 mm, 129.4384 mm): PCB text 'CTS' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(146.4945 mm, 129.4384 mm): PCB text 'CTS' on B.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(148.6281 mm, 129.3876 mm): PCB text '+5' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(148.6281 mm, 129.3876 mm): PCB text '+5' on B.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(151.1427 mm, 124.4092 mm): PCB text 'MCP1702
+T-3302' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(151.1427 mm, 124.4092 mm): PCB text 'MCP1702
+T-3302' on B.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(151.2951 mm, 129.4130 mm): PCB text 'RX' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(151.2951 mm, 129.4130 mm): PCB text 'RX' on B.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0488 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(153.6573 mm, 129.4130 mm): PCB text 'TX' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5608 mm)
+    Rule: board setup constraints silk text height; warning
+    @(153.6573 mm, 129.4130 mm): PCB text 'TX' on B.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(139.9921 mm, 72.9488 mm): PCB text 'SHORT FOR
+UART MODE' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(139.9921 mm, 72.9488 mm): PCB text 'SHORT FOR
+UART MODE' on B.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(143.3957 mm, 100.9904 mm): PCB text 'WP7_TX' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(143.3957 mm, 100.9904 mm): PCB text 'WP7_TX' on B.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0650 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(143.6497 mm, 106.1974 mm): PCB text 'WP9_RX' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7478 mm)
+    Rule: board setup constraints silk text height; warning
+    @(143.6497 mm, 106.1974 mm): PCB text 'WP9_RX' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6985 mm)
+    Rule: board setup constraints silk text height; warning
+    @(143.4973 mm, 81.9912 mm): Reference field of RST0
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6685 mm)
+    Rule: board setup constraints silk text height; warning
+    @(143.2179 mm, 123.1392 mm): Reference field of RWASTE0
+[lib_footprint_issues]: Footprint 'dummyfp0' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    Local override; warning
+    @(137.0711 mm, 71.3486 mm): Footprint UNK_HOLE_0
+[lib_footprint_issues]: Footprint 'dummyfp2' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    Local override; warning
+    @(159.9311 mm, 134.8486 mm): Footprint UNK_HOLE_2
+[lib_footprint_issues]: Footprint 'dummyfp3' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    Local override; warning
+    @(137.0711 mm, 134.8486 mm): Footprint UNK_HOLE_3
+[lib_footprint_issues]: Footprint 'dummyfp1' not found in library 'PCB0007.01_SW18AB_NRF2401'.
+    Local override; warning
+    @(159.9311 mm, 71.3486 mm): Footprint UNK_HOLE_1
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(134.5311 mm, 141.1986 mm): Segment on Edge.Cuts
+    @(159.2707 mm, 140.6144 mm): PCB text 'Optional' on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(134.5311 mm, 141.1986 mm): Segment on Edge.Cuts
+    @(135.3439 mm, 109.1184 mm): PCB text '3V3' on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(134.5311 mm, 141.1986 mm): Segment on Edge.Cuts
+    @(135.3439 mm, 111.8362 mm): PCB text '3V3' on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(162.4711 mm, 141.1986 mm): Segment on Edge.Cuts
+    @(162.7360 mm, 119.0006 mm): PCB text '5V' on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(134.5311 mm, 141.1986 mm): Segment on Edge.Cuts
+    @(142.6337 mm, 136.3218 mm): Reference field of OLED0
+
+** Found 0 unconnected pads **
+
+** Found 139 Footprint errors **
+[footprint_symbol_mismatch]: Value (BLUE0) doesn't match symbol value ().
+    Local override; warning
+    @(152.3619 mm, 115.6208 mm): Footprint BLUE0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C025-030X050_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C025-030X050).
+    Local override; warning
+    @(152.3619 mm, 115.6208 mm): Footprint BLUE0
+[net_conflict]: Pad net (N$1) doesn't match net given by schematic (Net-(BLUE0-Pad1)).
+    Local override; warning
+    @(151.0919 mm, 115.6208 mm): PTH pad 1 [N$1] of BLUE0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C0603_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C0603).
+    Local override; warning
+    @(149.0091 mm, 79.7306 mm): Footprint C1S0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C0603_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C0603).
+    Local override; warning
+    @(147.7391 mm, 108.8136 mm): Footprint C2S0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C0805_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C0805).
+    Local override; warning
+    @(149.0091 mm, 101.3206 mm): Footprint C3S0
+[net_conflict]: Pad net (N$1) doesn't match net given by schematic (Net-(BLUE0-Pad1)).
+    Local override; warning
+    @(149.0091 mm, 100.3706 mm): Pad 1 [N$1] of C3S0 on B.Cu
+[footprint_symbol_mismatch]: Value (C3V3) doesn't match symbol value ().
+    Local override; warning
+    @(138.2649 mm, 138.5062 mm): Footprint C3V3
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C025-030X050_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C025-030X050).
+    Local override; warning
+    @(138.2649 mm, 138.5062 mm): Footprint C3V3
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C0603_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C0603).
+    Local override; warning
+    @(143.7259 mm, 127.2286 mm): Footprint C4
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C0603_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C0603).
+    Local override; warning
+    @(152.0825 mm, 125.8062 mm): Footprint C5
+[footprint_symbol_mismatch]: Value (C5V0) doesn't match symbol value ().
+    Local override; warning
+    @(159.7025 mm, 132.0546 mm): Footprint C5V0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C025-030X050_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C025-030X050).
+    Local override; warning
+    @(159.7025 mm, 132.0546 mm): Footprint C5V0
+[footprint_symbol_mismatch]: Value (ESP01) doesn't match symbol value ().
+    Local override; warning
+    @(148.5011 mm, 120.8786 mm): Footprint ESP01
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:2X04_325 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:2X04).
+    Local override; warning
+    @(148.5011 mm, 120.8786 mm): Footprint ESP01
+[net_conflict]: Pad net (CTS) doesn't match net given by schematic (/CTS).
+    Local override; warning
+    @(144.6911 mm, 122.1486 mm): PTH pad 1 [CTS] of ESP01
+[net_conflict]: Pad net (WP3_SDA) doesn't match net given by schematic (/WP3_SDA).
+    Local override; warning
+    @(147.2311 mm, 119.6086 mm): PTH pad 4 [WP3_SDA] of ESP01
+[net_conflict]: Pad missing net given by schematic (unconnected-(ESP01-Pad5)).
+    Local override; warning
+    @(149.7711 mm, 122.1486 mm): PTH pad 5 [<no net>] of ESP01
+[net_conflict]: Pad net (WP4_SCL) doesn't match net given by schematic (/WP4_SCL).
+    Local override; warning
+    @(149.7711 mm, 119.6086 mm): PTH pad 6 [WP4_SCL] of ESP01
+[net_conflict]: Pad net (RTS) doesn't match net given by schematic (/RTS).
+    Local override; warning
+    @(152.3111 mm, 119.6086 mm): PTH pad 8 [RTS] of ESP01
+[footprint_symbol_mismatch]: Value (FTDICABLE0) doesn't match symbol value ().
+    Local override; warning
+    @(148.5011 mm, 131.0386 mm): Footprint FTDICABLE0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:1X06_325 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:1X06).
+    Local override; warning
+    @(148.5011 mm, 131.0386 mm): Footprint FTDICABLE0
+[net_conflict]: Pad net (CTS) doesn't match net given by schematic (/CTS).
+    Local override; warning
+    @(144.6911 mm, 131.0386 mm): PTH pad 2 [CTS] of FTDICABLE0
+[net_conflict]: Pad net (WP9_RX) doesn't match net given by schematic (/WP9_RX).
+    Local override; warning
+    @(149.7711 mm, 131.0386 mm): PTH pad 4 [WP9_RX] of FTDICABLE0
+[net_conflict]: Pad net (WP7_TX) doesn't match net given by schematic (/WP7_TX).
+    Local override; warning
+    @(152.3111 mm, 131.0386 mm): PTH pad 5 [WP7_TX] of FTDICABLE0
+[net_conflict]: Pad net (RTS) doesn't match net given by schematic (/RTS).
+    Local override; warning
+    @(154.8511 mm, 131.0386 mm): PTH pad 6 [RTS] of FTDICABLE0
+[footprint_symbol_mismatch]: Value (FTDICABLE1) doesn't match symbol value ().
+    Local override; warning
+    @(148.5011 mm, 134.8486 mm): Footprint FTDICABLE1
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:1X06_325 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:1X06).
+    Local override; warning
+    @(148.5011 mm, 134.8486 mm): Footprint FTDICABLE1
+[net_conflict]: Pad net (CTS) doesn't match net given by schematic (/CTS).
+    Local override; warning
+    @(144.6911 mm, 134.8486 mm): PTH pad 2 [CTS] of FTDICABLE1
+[net_conflict]: Pad net (WP9_RX) doesn't match net given by schematic (/WP9_RX).
+    Local override; warning
+    @(149.7711 mm, 134.8486 mm): PTH pad 4 [WP9_RX] of FTDICABLE1
+[net_conflict]: Pad net (WP7_TX) doesn't match net given by schematic (/WP7_TX).
+    Local override; warning
+    @(152.3111 mm, 134.8486 mm): PTH pad 5 [WP7_TX] of FTDICABLE1
+[net_conflict]: Pad net (RTS) doesn't match net given by schematic (/RTS).
+    Local override; warning
+    @(154.8511 mm, 134.8486 mm): PTH pad 6 [RTS] of FTDICABLE1
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:JST_SM04B-SRSS-TB(LF)(SN)_29888330 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:JST_SM04B-SRSS-TB(LF)(SN)).
+    Local override; warning
+    @(156.1211 mm, 124.6886 mm): Footprint J2
+[net_conflict]: Pad net (WP3_SDA) doesn't match net given by schematic (/WP3_SDA).
+    Local override; warning
+    @(156.1211 mm, 124.1886 mm): Pad 3 [WP3_SDA] of J2 on F.Cu
+[net_conflict]: Pad net (WP4_SCL) doesn't match net given by schematic (/WP4_SCL).
+    Local override; warning
+    @(156.1211 mm, 123.1886 mm): Pad 4 [WP4_SCL] of J2 on F.Cu
+[net_conflict]: Pad missing net given by schematic (Net-(J2-SHIELD-PadS1)).
+    Local override; warning
+    @(159.9961 mm, 127.4886 mm): Pad S1 [<no net>] of J2 on F.Cu
+[net_conflict]: Pad missing net given by schematic (Net-(J2-SHIELD-PadS1)).
+    Local override; warning
+    @(159.9961 mm, 121.8886 mm): Pad S2 [<no net>] of J2 on F.Cu
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:JST_SM04B-SRSS-TB(LF)(SN)_29888330 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:JST_SM04B-SRSS-TB(LF)(SN)).
+    Local override; warning
+    @(140.8811 mm, 124.6886 mm): Footprint J3
+[net_conflict]: Pad net (WP3_SDA) doesn't match net given by schematic (/WP3_SDA).
+    Local override; warning
+    @(140.8811 mm, 125.1886 mm): Pad 3 [WP3_SDA] of J3 on F.Cu
+[net_conflict]: Pad net (WP4_SCL) doesn't match net given by schematic (/WP4_SCL).
+    Local override; warning
+    @(140.8811 mm, 126.1886 mm): Pad 4 [WP4_SCL] of J3 on F.Cu
+[net_conflict]: Pad missing net given by schematic (Net-(J3-SHIELD-PadS1)).
+    Local override; warning
+    @(137.0061 mm, 121.8886 mm): Pad S1 [<no net>] of J3 on F.Cu
+[net_conflict]: Pad missing net given by schematic (Net-(J3-SHIELD-PadS1)).
+    Local override; warning
+    @(137.0061 mm, 127.4886 mm): Pad S2 [<no net>] of J3 on F.Cu
+[footprint_symbol_mismatch]: Value (JP1) doesn't match symbol value ().
+    Local override; warning
+    @(137.0711 mm, 100.5586 mm): Footprint JP1
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:1X15_325 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:1X15).
+    Local override; warning
+    @(137.0711 mm, 100.5586 mm): Footprint JP1
+[net_conflict]: Pad net (WP0) doesn't match net given by schematic (/WP0).
+    Local override; warning
+    @(137.0711 mm, 82.7786 mm): PTH pad 1 [WP0] of JP1
+[net_conflict]: Pad net (WP1) doesn't match net given by schematic (/WP1).
+    Local override; warning
+    @(137.0711 mm, 85.3186 mm): PTH pad 2 [WP1] of JP1
+[net_conflict]: Pad net (WP2) doesn't match net given by schematic (/WP2).
+    Local override; warning
+    @(137.0711 mm, 87.8586 mm): PTH pad 3 [WP2] of JP1
+[net_conflict]: Pad net (WP3_SDA) doesn't match net given by schematic (/WP3_SDA).
+    Local override; warning
+    @(137.0711 mm, 90.3986 mm): PTH pad 4 [WP3_SDA] of JP1
+[net_conflict]: Pad net (WP4_SCL) doesn't match net given by schematic (/WP4_SCL).
+    Local override; warning
+    @(137.0711 mm, 92.9386 mm): PTH pad 5 [WP4_SCL] of JP1
+[net_conflict]: Pad net (WP5) doesn't match net given by schematic (/WP5).
+    Local override; warning
+    @(137.0711 mm, 95.4786 mm): PTH pad 6 [WP5] of JP1
+[net_conflict]: Pad net (WP6) doesn't match net given by schematic (/WP6).
+    Local override; warning
+    @(137.0711 mm, 98.0186 mm): PTH pad 7 [WP6] of JP1
+[net_conflict]: Pad net (WP7_TX) doesn't match net given by schematic (/WP7_TX).
+    Local override; warning
+    @(137.0711 mm, 100.5586 mm): PTH pad 8 [WP7_TX] of JP1
+[net_conflict]: Pad net (WP8) doesn't match net given by schematic (/WP8).
+    Local override; warning
+    @(137.0711 mm, 103.0986 mm): PTH pad 9 [WP8] of JP1
+[net_conflict]: Pad net (WP9_RX) doesn't match net given by schematic (/WP9_RX).
+    Local override; warning
+    @(137.0711 mm, 105.6386 mm): PTH pad 10 [WP9_RX] of JP1
+[footprint_symbol_mismatch]: Value (JP2) doesn't match symbol value ().
+    Local override; warning
+    @(159.9311 mm, 100.5586 mm): Footprint JP2
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:1X15_325 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:1X15).
+    Local override; warning
+    @(159.9311 mm, 100.5586 mm): Footprint JP2
+[net_conflict]: Pad net (WP19) doesn't match net given by schematic (/WP19).
+    Local override; warning
+    @(159.9311 mm, 82.7786 mm): PTH pad 1 [WP19] of JP2
+[net_conflict]: Pad net (WP18) doesn't match net given by schematic (/WP18).
+    Local override; warning
+    @(159.9311 mm, 85.3186 mm): PTH pad 2 [WP18] of JP2
+[net_conflict]: Pad net (WP17) doesn't match net given by schematic (/WP17).
+    Local override; warning
+    @(159.9311 mm, 87.8586 mm): PTH pad 3 [WP17] of JP2
+[net_conflict]: Pad net (WP16) doesn't match net given by schematic (/WP16).
+    Local override; warning
+    @(159.9311 mm, 90.3986 mm): PTH pad 4 [WP16] of JP2
+[net_conflict]: Pad net (WP15) doesn't match net given by schematic (/WP15).
+    Local override; warning
+    @(159.9311 mm, 92.9386 mm): PTH pad 5 [WP15] of JP2
+[net_conflict]: Pad net (WP14) doesn't match net given by schematic (/WP14).
+    Local override; warning
+    @(159.9311 mm, 95.4786 mm): PTH pad 6 [WP14] of JP2
+[net_conflict]: Pad net (WP13) doesn't match net given by schematic (/WP13).
+    Local override; warning
+    @(159.9311 mm, 98.0186 mm): PTH pad 7 [WP13] of JP2
+[net_conflict]: Pad net (WP12) doesn't match net given by schematic (/WP12).
+    Local override; warning
+    @(159.9311 mm, 100.5586 mm): PTH pad 8 [WP12] of JP2
+[net_conflict]: Pad net (WP11) doesn't match net given by schematic (/WP11).
+    Local override; warning
+    @(159.9311 mm, 103.0986 mm): PTH pad 9 [WP11] of JP2
+[net_conflict]: Pad net (WP10) doesn't match net given by schematic (/WP10).
+    Local override; warning
+    @(159.9311 mm, 105.6386 mm): PTH pad 10 [WP10] of JP2
+[footprint_symbol_mismatch]: Value (JP3) doesn't match symbol value ().
+    Local override; warning
+    @(137.0711 mm, 76.4286 mm): Footprint JP3
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:1X02_325 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:1X02).
+    Local override; warning
+    @(137.0711 mm, 76.4286 mm): Footprint JP3
+[net_conflict]: Pad net (ADDR) doesn't match net given by schematic (/ADDR).
+    Local override; warning
+    @(137.0711 mm, 77.6986 mm): PTH pad 1 [ADDR] of JP3
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:I2C_GND_VCC_SCL_SDA_19766914 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:I2C_GND_VCC_SCL_SDA).
+    Local override; warning
+    @(148.2217 mm, 138.3538 mm): Footprint OLED0
+[net_conflict]: Pad net (WP4_SCL) doesn't match net given by schematic (/WP4_SCL).
+    Local override; warning
+    @(149.4917 mm, 138.3538 mm): PTH pad SCK [WP4_SCL] of OLED0
+[net_conflict]: Pad net (WP3_SDA) doesn't match net given by schematic (/WP3_SDA).
+    Local override; warning
+    @(152.0317 mm, 138.3538 mm): PTH pad SDA [WP3_SDA] of OLED0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:R0603_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:R0603).
+    Local override; warning
+    @(148.9837 mm, 74.9554 mm): Footprint R1S0
+[net_conflict]: Pad net (~{RESET}) doesn't match net given by schematic (/~{RESET}).
+    Local override; warning
+    @(148.1337 mm, 74.9554 mm): Pad 1 [~{RESET}] of R1S0 on B.Cu
+[footprint_symbol_mismatch]: Value (R1T0) doesn't match symbol value ().
+    Local override; warning
+    @(148.5011 mm, 75.1586 mm): Footprint R1T0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:0207_12_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:0207_12).
+    Local override; warning
+    @(148.5011 mm, 75.1586 mm): Footprint R1T0
+[net_conflict]: Pad net (~{RESET}) doesn't match net given by schematic (/~{RESET}).
+    Local override; warning
+    @(142.1511 mm, 75.1586 mm): PTH pad 2 [~{RESET}] of R1T0
+[footprint_symbol_mismatch]: Value (R2S0) doesn't match symbol value ().
+    Local override; warning
+    @(148.9583 mm, 72.5678 mm): Footprint R2S0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:R0603_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:R0603).
+    Local override; warning
+    @(148.9583 mm, 72.5678 mm): Footprint R2S0
+[net_conflict]: Pad net (ADDR) doesn't match net given by schematic (/ADDR).
+    Local override; warning
+    @(148.1083 mm, 72.5678 mm): Pad 1 [ADDR] of R2S0 on B.Cu
+[footprint_symbol_mismatch]: Value (R2T0) doesn't match symbol value ().
+    Local override; warning
+    @(148.5011 mm, 71.3486 mm): Footprint R2T0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:0207_12_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:0207_12).
+    Local override; warning
+    @(148.5011 mm, 71.3486 mm): Footprint R2T0
+[net_conflict]: Pad net (ADDR) doesn't match net given by schematic (/ADDR).
+    Local override; warning
+    @(142.1511 mm, 71.3486 mm): PTH pad 2 [ADDR] of R2T0
+[footprint_symbol_mismatch]: Value (R3S0) doesn't match symbol value ().
+    Local override; warning
+    @(156.1211 mm, 103.0986 mm): Footprint R3S0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:R0603_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:R0603).
+    Local override; warning
+    @(156.1211 mm, 103.0986 mm): Footprint R3S0
+[net_conflict]: Pad net (WP3_SDA) doesn't match net given by schematic (/WP3_SDA).
+    Local override; warning
+    @(156.1211 mm, 103.9486 mm): Pad 2 [WP3_SDA] of R3S0 on B.Cu
+[footprint_symbol_mismatch]: Value (R4S0) doesn't match symbol value ().
+    Local override; warning
+    @(140.8811 mm, 103.0986 mm): Footprint R4S0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:R0603_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:R0603).
+    Local override; warning
+    @(140.8811 mm, 103.0986 mm): Footprint R4S0
+[net_conflict]: Pad net (WP4_SCL) doesn't match net given by schematic (/WP4_SCL).
+    Local override; warning
+    @(140.8811 mm, 102.2486 mm): Pad 2 [WP4_SCL] of R4S0 on B.Cu
+[footprint_symbol_mismatch]: Value (RST0) doesn't match symbol value ().
+    Local override; warning
+    @(140.8811 mm, 82.7786 mm): Footprint RST0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:1X01_325 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:1X01).
+    Local override; warning
+    @(140.8811 mm, 82.7786 mm): Footprint RST0
+[net_conflict]: Pad net (~{RESET}) doesn't match net given by schematic (/~{RESET}).
+    Local override; warning
+    @(140.8811 mm, 82.7786 mm): PTH pad 1 [~{RESET}] of RST0
+[footprint_symbol_mismatch]: Value (RWASTE0) doesn't match symbol value ().
+    Local override; warning
+    @(145.5801 mm, 125.1458 mm): Footprint RWASTE0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:R1206_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:R1206).
+    Local override; warning
+    @(145.5801 mm, 125.1458 mm): Footprint RWASTE0
+[footprint_symbol_mismatch]: Value (SCL0) doesn't match symbol value ().
+    Local override; warning
+    @(140.8811 mm, 103.0986 mm): Footprint SCL0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:0207_12_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:0207_12).
+    Local override; warning
+    @(140.8811 mm, 103.0986 mm): Footprint SCL0
+[net_conflict]: Pad net (WP4_SCL) doesn't match net given by schematic (/WP4_SCL).
+    Local override; warning
+    @(140.8811 mm, 96.7486 mm): PTH pad 1 [WP4_SCL] of SCL0
+[footprint_symbol_mismatch]: Value (SDA0) doesn't match symbol value ().
+    Local override; warning
+    @(156.1211 mm, 103.0986 mm): Footprint SDA0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:0207_12_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:0207_12).
+    Local override; warning
+    @(156.1211 mm, 103.0986 mm): Footprint SDA0
+[net_conflict]: Pad net (WP3_SDA) doesn't match net given by schematic (/WP3_SDA).
+    Local override; warning
+    @(156.1211 mm, 96.7486 mm): PTH pad 1 [WP3_SDA] of SDA0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:SOT_23A_MICROCHIP_19766914 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:SOT_23A_MICROCHIP).
+    Local override; warning
+    @(147.2311 mm, 127.2286 mm): Footprint U$1
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:TO-92_19766914 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:TO-92).
+    Local override; warning
+    @(158.9659 mm, 137.7188 mm): Footprint U$2
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:ART_SERIAL_WOMBAT_TORSO_THIRDINCH_29888330 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:ART_SERIAL_WOMBAT_TORSO_THIRDINCH).
+    Local override; warning
+    @(158.6611 mm, 124.6886 mm): Footprint U$3
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:SW18AB_DIP_29888330 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:SW18AB_DIP).
+    Local override; warning
+    @(148.5011 mm, 95.4786 mm): Footprint U1
+[net_conflict]: Pad net (ADDR) doesn't match net given by schematic (/ADDR).
+    Local override; warning
+    @(144.5641 mm, 84.0486 mm): PTH pad ADDR [ADDR] of U1
+[net_conflict]: Pad net (~{RESET}) doesn't match net given by schematic (/~{RESET}).
+    Local override; warning
+    @(144.5641 mm, 78.9686 mm): PTH pad RESET [~{RESET}] of U1
+[net_conflict]: Pad net (N$1) doesn't match net given by schematic (Net-(BLUE0-Pad1)).
+    Local override; warning
+    @(152.4381 mm, 99.2886 mm): PTH pad VCAP [N$1] of U1
+[net_conflict]: Pad net (WP0) doesn't match net given by schematic (/WP0).
+    Local override; warning
+    @(144.5641 mm, 81.5086 mm): PTH pad WP0 [WP0] of U1
+[net_conflict]: Pad net (WP1) doesn't match net given by schematic (/WP1).
+    Local override; warning
+    @(144.5641 mm, 86.5886 mm): PTH pad WP1 [WP1] of U1
+[net_conflict]: Pad net (WP2) doesn't match net given by schematic (/WP2).
+    Local override; warning
+    @(144.5641 mm, 89.1286 mm): PTH pad WP2 [WP2] of U1
+[net_conflict]: Pad net (WP3_SDA) doesn't match net given by schematic (/WP3_SDA).
+    Local override; warning
+    @(144.5641 mm, 91.6686 mm): PTH pad WP3_SDA [WP3_SDA] of U1
+[net_conflict]: Pad net (WP4_SCL) doesn't match net given by schematic (/WP4_SCL).
+    Local override; warning
+    @(144.5641 mm, 94.2086 mm): PTH pad WP4_SCL [WP4_SCL] of U1
+[net_conflict]: Pad net (WP5) doesn't match net given by schematic (/WP5).
+    Local override; warning
+    @(144.5641 mm, 99.2886 mm): PTH pad WP5 [WP5] of U1
+[net_conflict]: Pad net (WP6) doesn't match net given by schematic (/WP6).
+    Local override; warning
+    @(144.5641 mm, 101.8286 mm): PTH pad WP6 [WP6] of U1
+[net_conflict]: Pad net (WP7_TX) doesn't match net given by schematic (/WP7_TX).
+    Local override; warning
+    @(144.5641 mm, 104.3686 mm): PTH pad WP7_TX [WP7_TX] of U1
+[net_conflict]: Pad net (WP8) doesn't match net given by schematic (/WP8).
+    Local override; warning
+    @(144.5641 mm, 106.9086 mm): PTH pad WP8 [WP8] of U1
+[net_conflict]: Pad net (WP9_RX) doesn't match net given by schematic (/WP9_RX).
+    Local override; warning
+    @(144.5641 mm, 111.9886 mm): PTH pad WP9_RX [WP9_RX] of U1
+[net_conflict]: Pad net (WP10) doesn't match net given by schematic (/WP10).
+    Local override; warning
+    @(152.4381 mm, 111.9886 mm): PTH pad WP10 [WP10] of U1
+[net_conflict]: Pad net (WP11) doesn't match net given by schematic (/WP11).
+    Local override; warning
+    @(152.4381 mm, 109.4486 mm): PTH pad WP11 [WP11] of U1
+[net_conflict]: Pad net (WP12) doesn't match net given by schematic (/WP12).
+    Local override; warning
+    @(152.4381 mm, 106.9086 mm): PTH pad WP12 [WP12] of U1
+[net_conflict]: Pad net (WP13) doesn't match net given by schematic (/WP13).
+    Local override; warning
+    @(152.4381 mm, 104.3686 mm): PTH pad WP13 [WP13] of U1
+[net_conflict]: Pad net (WP14) doesn't match net given by schematic (/WP14).
+    Local override; warning
+    @(152.4381 mm, 96.7486 mm): PTH pad WP14 [WP14] of U1
+[net_conflict]: Pad net (WP15) doesn't match net given by schematic (/WP15).
+    Local override; warning
+    @(152.4381 mm, 94.2086 mm): PTH pad WP15 [WP15] of U1
+[net_conflict]: Pad net (WP16) doesn't match net given by schematic (/WP16).
+    Local override; warning
+    @(152.4381 mm, 91.6686 mm): PTH pad WP16 [WP16] of U1
+[net_conflict]: Pad net (WP17) doesn't match net given by schematic (/WP17).
+    Local override; warning
+    @(152.4381 mm, 89.1286 mm): PTH pad WP17 [WP17] of U1
+[net_conflict]: Pad net (WP18) doesn't match net given by schematic (/WP18).
+    Local override; warning
+    @(152.4381 mm, 86.5886 mm): PTH pad WP18 [WP18] of U1
+[net_conflict]: Pad net (WP19) doesn't match net given by schematic (/WP19).
+    Local override; warning
+    @(152.4381 mm, 84.0486 mm): PTH pad WP19 [WP19] of U1
+[footprint_symbol_mismatch]: Value (VDD0) doesn't match symbol value ().
+    Local override; warning
+    @(140.8811 mm, 85.3186 mm): Footprint VDD0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:1X01_325 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:1X01).
+    Local override; warning
+    @(140.8811 mm, 85.3186 mm): Footprint VDD0
+[footprint_symbol_mismatch]: Value (VSS0) doesn't match symbol value ().
+    Local override; warning
+    @(140.8811 mm, 87.8586 mm): Footprint VSS0
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:1X01_325 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:1X01).
+    Local override; warning
+    @(140.8811 mm, 87.8586 mm): Footprint VSS0
+[footprint_symbol_mismatch]: Value (YEL1) doesn't match symbol value ().
+    Local override; warning
+    @(158.6611 mm, 77.6986 mm): Footprint YEL1
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C025-030X050_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C025-030X050).
+    Local override; warning
+    @(158.6611 mm, 77.6986 mm): Footprint YEL1
+[footprint_symbol_mismatch]: Value (YEL2) doesn't match symbol value ().
+    Local override; warning
+    @(142.1511 mm, 115.7986 mm): Footprint YEL2
+[footprint_symbol_mismatch]: PCB0007.01_SW18AB_NRF2401:C025-030X050_334 doesn't match footprint given by symbol (PCB0007.01_SW18AB_NRF2401:C025-030X050).
+    Local override; warning
+    @(142.1511 mm, 115.7986 mm): Footprint YEL2
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(137.0711 mm, 71.3486 mm): Footprint UNK_HOLE_0
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(159.9311 mm, 134.8486 mm): Footprint UNK_HOLE_2
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(137.0711 mm, 134.8486 mm): Footprint UNK_HOLE_3
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(159.9311 mm, 71.3486 mm): Footprint UNK_HOLE_1
+
+** End of Report **
